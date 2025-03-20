@@ -1,0 +1,163 @@
+.container
+{
+    display: flex;
+    width: 410px;
+    height: 350px;
+    background-color: rgb(222, 162, 12);
+    padding: 20px;
+    margin: 5px;
+    flex-wrap: wrap; /*taşma*/
+    
+}
+
+.kutu
+{
+    width: 100px;
+    height: 60px;
+    background-color: rgb(224, 224, 233);
+    border: 20px;
+    border: 3px solid black;
+
+    
+}
+.kutu2
+{
+    width: 130px;
+    height: 60px;
+    background-color: rgb(224, 224, 233);
+    border: 20px;
+    border: 3px solid black;
+}
+.kutu3
+{
+    width: 100px;
+    height: 60px;
+    background-color: yellow;
+    border: 20px;
+    border: 3px solid black;
+}
+.kutu4
+{
+    width: 40px;
+    height: 60px;
+    background-color: rgb(224, 224, 233);
+    border: 20px;
+    border: 3px solid black;
+}
+.kutu1Sira2
+{
+    width: 50px;
+    height: 100px;
+    background-color: rgb(224, 224, 233);
+    border: 20px;
+    border: 3px solid black;
+}
+.kutu2Sira2
+{
+    width: 180px;
+    height: 180px;
+    background-color: red;
+    border: 20px;
+    border: 3px solid black;
+}
+.kutu3Sira2
+{
+    width: 100px;
+    height: 80px;
+    background-color: yellow;
+    border: 20px;
+    border: 3px solid black;
+}
+.kutu4Sira2
+{
+    width: 40px;
+    height: 240px;
+    background-color:rgb(224, 224, 233);
+    border: 20px;
+    border: 3px solid black;
+}
+.kutu1Sira3
+{
+    width: 60px;
+    height: 130px;
+    background-color:rgb(224, 224, 233);
+    border: 20px;
+    border: 3px solid black;
+    
+}
+.kutu2Sira3
+{
+    width: 80px;
+    height: 100px;
+    background-color:rgb(12, 12, 42);
+    border: 20px;
+    border: 3px solid black;
+}
+.kutu3Sira3
+{
+    width: 80px;
+    height: 50px;
+    background-color:rgb(224, 224, 233);
+    border: 20px;
+    border: 3px solid black;
+}
+.kutu4Sira3
+{
+    width: 50px;
+    height: 105px;
+    background-color:rgb(224, 224, 233);
+    border: 20px;
+    border: 3px solid black;
+    
+}
+.kutu5Sira3
+{
+    width: 50px;
+    height: 105px;
+    background-color:rgb(224, 224, 233);
+    border: 20px;
+    border: 3px solid black;
+
+    
+}
+
+.kutu1Sira4
+{
+    width: 60px;
+    height: 100px;
+    background-color:yellow;
+    border: 20px;
+    border: 3px solid black;
+    
+
+}
+.kutu2Sira4
+{
+    width: 80px;
+    height: 60px;
+    background-color:rgb(224, 224, 233);
+    border: 20px;
+    border: 3px solid black;
+
+    
+}
+.kutu3Sira4
+{
+    width: 80px;
+    height: 40px;
+    background-color:rgb(224, 224, 233);
+    border: 20px;
+    border: 3px solid black;
+
+    
+}
+.kutu4Sira4
+{
+    width: 105px;
+    height: 40px;
+    background-color:rgb(224, 224, 233);
+    border: 20px;
+    border: 3px solid black;
+
+    
+}
