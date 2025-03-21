@@ -1,0 +1,258 @@
+*{
+    box-sizing: border-box;
+}
+
+body
+{
+    padding: 0px;
+    margin: 0px;
+    line-height: 1.6;
+    background-color: rgb(168, 154, 154);
+    display: flex;
+
+}
+.container
+{
+    display: flex;
+    width: 370px;
+    height: 270px;
+    flex-wrap: wrap; /*taşma*/
+    justify-content: flex-start;
+    align-content: stretch;
+    gap : 0px;
+    
+
+    
+}
+
+.kutu
+{
+    width: 100px;
+    height: 60px;
+    background-color: rgb(224, 224, 233);
+    border: 3px solid black;
+    align-self: flex-start;
+    
+}
+.kutu2
+{
+    width: 130px;
+    height: 60px;
+    background-color: rgb(224, 224, 233);
+    border: 3px solid black;
+    align-self: flex-start;
+}
+.kutu3
+{
+    width: 100px;
+    height: 60px;
+    background-color: yellow;
+    border: 3px solid black;
+    align-self: flex-start;
+}
+.kutu4
+{
+    width: 40px;
+    height: 60px;
+    background-color: rgb(224, 224, 233);
+    border: 3px solid black;
+    align-self: flex-start;
+    
+}
+.kutu1Sira2
+{
+    width: 50px;
+    height: 100px;
+    background-color: rgb(224, 224, 233);
+    border: 3px solid black;
+    align-self: flex-start;
+}
+.kutu2Sira2
+{
+    width: 180px;
+    height: 180px;
+    background-color: red;
+    border: 3px solid black;
+    align-self: flex-start;
+}
+.kutu3Sira2
+{
+    width: 100px;
+    height: 80px;
+    background-color: yellow;
+    border: 3px solid black;
+    align-self: flex-start;
+}
+.kutu4Sira2
+{
+    width: 40px;
+    height: 222px;
+    background-color:rgb(224, 224, 233);
+    border: 3px solid black;
+    align-self: flex-start;
+}
+.kutu1Sira3
+{
+    width: 50px;
+    height: 130px;
+    background-color:rgb(224, 224, 233);
+    border: 3px solid black;
+    align-self: flex-start;
+    position: absolute;
+    top : 160px;
+    left: 0px;
+    
+}
+.kutu2Sira3
+{
+    width: 80px;
+    height: 85px;
+    background-color:rgb(12, 12, 42);
+    border: 3px solid black;
+    align-self: flex-start;
+    position: absolute;
+    top : 237px;
+    left: 50px;
+}
+.kutu3Sira3
+{
+    width: 100px;
+    height: 50px;
+    background-color:rgb(224, 224, 233);
+    border: 3px solid black;
+    align-self: flex-start;
+    position: absolute;
+    top : 237px;
+    left: 130px;
+}
+.kutu4Sira3
+{
+    width: 50px;
+    height: 104px;
+    background-color:rgb(224, 224, 233);
+    border: 3px solid black;
+    align-self: flex-start;
+    position: absolute;
+    top : 137px;
+    left: 229px;
+    
+}
+.kutu5Sira3
+{
+    width: 52px;
+    height: 104px;
+    background-color:rgb(224, 224, 233);
+    border: 3px solid black;
+    align-self: flex-start;
+    position: absolute;
+    top : 137px;
+    left: 278px;
+    
+
+    
+}
+
+.kutu1Sira4
+{
+    width: 50px;
+    height: 110px;
+    background-color:yellow;
+    border: 3px solid black;
+    align-self: flex-start;
+    position: absolute;
+    top : 250px;
+    left: 0px;
+    
+    
+    
+
+}
+.kutu2Sira4
+{
+    width: 102px;
+    height: 45px;
+    background-color:rgb(224, 224, 233);
+    border: 3px solid black;
+    align-self: flex-start;
+    position: absolute;
+    top : 239px;
+    left: 229px;
+    
+
+    
+}
+.kutu3Sira4
+{
+    width: 80px;
+    height: 40px;
+    background-color:rgb(224, 224, 233);
+    border: 3px solid black;
+    align-self: flex-start;
+    position: absolute;
+    top : 320px;
+    left: 50px;
+    
+    
+}
+.kutu4Sira4
+{
+    width: 100px;
+    height: 40px;
+    background-color:rgb(224, 224, 233);
+    border: 3px solid black;
+    align-self: flex-start;
+    position: absolute;
+    top : 281px;
+    left: 130px;
+    
+
+    
+}
+
+.kutu1Sira5
+{
+    width: 100px;
+    height: 20px;
+    background-color:rgb(12, 12, 42);
+    border: 3px solid black;
+    align-self: flex-start;
+    position: absolute;
+    top : 320px;
+    left: 130px;
+}
+
+.kutu2Sira5
+{
+    width: 202px;
+    height: 20px;
+    background-color:rgb(224, 224, 233);
+    border: 3px solid black;
+    align-self: flex-start;
+    position: absolute;
+    top : 340px;
+    left: 130px;
+}
+.kutu3Sira5
+{
+    width: 102px;
+    height: 61px;
+    background-color:rgb(32, 32, 112);
+    border: 3px solid black;
+    align-self: flex-start;
+    position: absolute;
+    top : 280px;
+    left: 230px;
+}
+.kutu4Sira5
+{
+    width: 39px;
+    height: 80px;
+    background-color:rgb(166, 61, 61);
+    border: 3px solid black;
+    align-self: flex-start;
+    position: absolute;
+    top : 280px;
+    left: 331px;
+}
+
+
